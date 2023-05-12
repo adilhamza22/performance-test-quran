@@ -1,0 +1,22 @@
+{
+  "name": "performance-test-quran",
+  "version": "1.0.0",
+  "description": "K6 Quran.com performance and load testing ",
+  "main": "script.js",
+  "scripts": {
+    "test": "k6 run script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilhamza22/performance-test-quran.git"
+  },
+  "author": "zzReal-Blancos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilhamza22/performance-test-quran/issues"
+  },
+  "homepage": "https://github.com/adilhamza22/performance-test-quran#readme",
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}

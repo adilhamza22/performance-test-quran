@@ -1,7 +1,7 @@
 // normal load testing 
 // To test how the application performs under normal load.
 import http from 'k6/http';
-  import { check, sleep } from 'k6';
+import { check, sleep } from 'k6';
 
 export let options = {
     vus: 200,
